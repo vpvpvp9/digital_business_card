@@ -1,0 +1,23 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.blankimg {
+    width: 150px;
+}
+.display {
+    text-align: center;
+    margin: 20px auto;
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #81C3D7;
+    color: #343a40;
+    border-bottom: 5px solid #D9DCD6;
+    font-size: larger;
+
+}
+.italic {
+    font-style: italic;
+}
